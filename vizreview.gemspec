@@ -9,9 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Felipe Correia"]
   spec.email         = ["info@vizreview.io"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{VizReview SDK for Ruby. Easy integration of visual regression testing.}
+  spec.homepage      = "http://vizreview.io"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
