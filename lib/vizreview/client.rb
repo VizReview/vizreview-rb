@@ -1,6 +1,6 @@
 module VizReview
   class Client
-    API_URL = 'https://us-central1-vizreview-dev.cloudfunctions.net'
+    API_URL = 'https://app.vizreview.io'
 
     class << self
       attr_reader :config, :conn, :version_service, :version_id, :uploader,
